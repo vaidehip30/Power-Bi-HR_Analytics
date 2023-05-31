@@ -31,7 +31,6 @@ Tool Used :Power BI
 
 Based on the information provided in the dashboard, we can observe various insights related to employee attrition. The total number of employees in the company is 1470, out of which 237 employees have left the company, resulting in an attrition rate of 16%. The average age of employees is 37, with an average salary and working years of 6.5K and 7, respectively.
 
-The tree map is used to analyze the attrition by gender, where we see that 150 males and 87 females have left the company. We can conclude that male employees are leaving the company more than female employees. The reason for this may be due to work-life balance, lack of flexibility, or lack of career progression. The company can provide more flexible work arrangements, offer fair compensation, and create opportunities for career growth and development to address this issue.
 
 The donut chart is used to analyze the attrition by education field. The data shows that the attrition count is highest in the education field called Life Science, with 89 employees leaving, followed by Medical Field with 63 employees leaving. We can conclude that high competition, challenging coursework, limited job opportunities, and high expectations may contribute to higher attrition rates in the Life Sciences field compared to other fields in education.
 
