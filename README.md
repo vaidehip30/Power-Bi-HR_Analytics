@@ -23,8 +23,8 @@ Tool Used :Power BI
 
 
 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:
+![Dashboard](https://github.com/vaidehip30/Power-Bi-HR_Analytics/assets/134762504/efb6b049-abd5-4281-95b8-0a7ff83207c6)
 
-[PROJECT HR ANALYTICS.pdf](https://github.com/vaidehip30/Power-Bi-HR_Analytics/files/11609173/PROJECT.HR.ANALYTICS.pdf)
 
 
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
