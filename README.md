@@ -33,7 +33,7 @@ Tool Used :Power BI
 Based on the information provided in the dashboard, we can observe various insights related to employee attrition. The total number of employees in the company is 1470, out of which 237 employees have left the company, resulting in an attrition rate of 16%. The average age of employees is 37, with an average salary and working years of 6.5K and 7, respectively.
 
 
-The donut chart is used to analyze the attrition by education field. The data shows that the attrition count is highest in the education field called Life Science, with 89 employees leaving, followed by Medical Field with 63 employees leaving. We can conclude that high competition, challenging coursework, limited job opportunities, and high expectations may contribute to higher attrition rates in the Life Sciences field compared to other fields in education.
+The donut chart is used to analyze the attrition by education field. The data shows that the attrition count is highest in the education field called Life Science, with 90 employees leaving, followed by Medical Field with 64 employees leaving. We can conclude that high competition, challenging coursework, limited job opportunities, and high expectations may contribute to higher attrition rates in the Life Sciences field compared to other fields in education.
 
 The stacked column chart is used to analyze the attrition by age, where the age group from 26-35 has the highest attrition count of 116. A combination of factors such as career advancement opportunities, work-life balance, company culture, compensation and benefits, and technology and innovation can all contribute to higher turnover rates among employees in the age group of 26-35.
 
@@ -41,7 +41,10 @@ The stacked bar chart is used to analyze the attrition by salary, where the attr
 
 The stacked bar chart is also used to analyze the attrition by job role, where the job role of laboratory Technician has the highest attrition count of 62. Limited career growth opportunities, limited job variety, challenging work environment, poor work-life balance, and compensation and benefits concerns may contribute to higher levels of attrition among employees working as Laboratory Technicians.
 
-Finally, the area chart is used to analyze the attrition by age, where we see that the highest number of employees, i.e., 59, have left the company within 1 year of service. Poor job fit, lack of training and support, poor management, company culture, and better opportunities elsewhere may contribute to higher turnover rates among employees within the first year of service.
+Finally, the area chart is used to analyze the attrition by Years at company , where we see that the highest number of employees, i.e., 59, have left the company within 1 year of service. Poor job fit, lack of training and support, poor management, company culture, and better opportunities elsewhere may contribute to higher turnover rates among employees within the first year of service.
+
+
+# Final Conclusion:
 
 Overall, by analyzing the dashboard data, we can recommend that the company needs to focus on providing better career growth opportunities, work-life balance, compensation and benefits, and a positive work environment to reduce the attrition rate and retain valuable employees.
 
