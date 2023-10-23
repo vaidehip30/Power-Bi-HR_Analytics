@@ -27,7 +27,7 @@ Tool Used :Power BI
 
 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:
 
-![HR](https://github.com/vaidehip30/Power-Bi-HR_Analytics/assets/134762504/68394cff-13aa-4076-9524-072bcd89ac4f)
+![HR](https://github.com/vaidehip30/Power-Bi-HR_Analytics/assets/134762504/4876a31a-6a13-45db-bf8b-25f959c2fea1)
 
 
 
