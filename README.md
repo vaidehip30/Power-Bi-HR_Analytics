@@ -6,8 +6,7 @@ and retention through data-driven insights and recommendations.
 
 Tool Used :Power BI
 
-
-[Project HR Analytics.pdf](https://github.com/vaidehip30/Power-Bi-HR_Analytics/files/12137920/Project.HR.Analytics.pdf)
+[PROJECT HR ANALYTICS.pdf](https://github.com/vaidehip30/Power-Bi-HR_Analytics/files/13067959/PROJECT.HR.ANALYTICS.pdf)
 
 [HR_Analytics.csv](https://github.com/vaidehip30/Power-Bi-HR_Analytics/files/13066396/HR_Analytics.csv)
 
@@ -28,7 +27,8 @@ Tool Used :Power BI
 
 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:
 
-![Screenshot (130)](https://github.com/vaidehip30/Power-Bi-HR_Analytics/assets/134762504/f2cde98b-01a2-43a4-824c-c23980c5bbd7)
+![HR](https://github.com/vaidehip30/Power-Bi-HR_Analytics/assets/134762504/68394cff-13aa-4076-9524-072bcd89ac4f)
+
 
 
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
